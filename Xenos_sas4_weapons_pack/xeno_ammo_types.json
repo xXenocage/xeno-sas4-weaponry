@@ -1,0 +1,20 @@
+[
+	{
+        "type" : "ammunition_type",
+        "id" : "ammo_circular_blade",
+        "name" : "Small Circular Blade",
+        "default" : "ammo_circular_blade"
+    },
+	{
+        "type" : "ammunition_type",
+        "id" : "ammo_circular_blade_sharp",
+        "name" : "Small Sharpened Circular Blade",
+        "default" : "ammo_circular_blade"
+    },
+	{
+        "type" : "ammunition_type",
+        "id" : "ammo_circular_blade_blunt",
+        "name" : "Small Blunt Circular Blade",
+        "default" : "ammo_circular_blade"
+    }
+]

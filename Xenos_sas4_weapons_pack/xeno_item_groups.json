@@ -13,7 +13,8 @@
     "//" : "Less common pistols including those only used by police/paramilitary forces.",
     "items": [
 		["ria_1010", 25],
-		["cm_205",30]
+		["cm_205",30],
+		["ronson_45",30]
     ]
   },
   { "id" : "guns_pistol_milspec",
@@ -42,7 +43,8 @@
     "//" : "Military specification SMGs only ever found at military sites.",
     "items": [
 		["hvm_002", 60],
-		["ria_7", 60]
+		["ria_7", 60],
+		["ronson_50", 60]
     ]
   },
   { "id" : "guns_smg_rare",
@@ -50,7 +52,8 @@
     "//" : "Military specification SMGs only ever found at military sites.",
     "items": [
 		["ria_T7",30],
-		["cm_307",20]
+		["cm_307",20],
+		["ronson_55",20]
     ]
   },
   { "id" : "guns_smg_milspec",
@@ -94,7 +97,8 @@
 		["ria_20_striker",15],
 		["ria_t40",20],
 		["cm_401_planet_stormer",20],
-		["cm_505",20]
+		["cm_505",20],
+		["ronson_65_a",20]
     ]
   },
   { "id" : "guns_rifle_milspec",
@@ -108,7 +112,9 @@
 		["cm_451_starburst",10],
 		["mixmaster",10],
 		["hard_thorn",5],
-		["heartburn",5]
+		["heartburn",5],
+		["ronson_70",5],
+		["ronson_lbm",5]
     ]
   },
   { "id" : "guns_rifle_obscure",
@@ -235,6 +241,10 @@
 		["50hvm",95],
 		["75hvm",95],
 		["100hvm",90],
+		["25hvmspeedloader",60],
+		["50hvmspeedloader",60],
+		["75hvmspeedloader",60],
+		["100hvmspeedloader",55],
 		["2x50hvm",85],
 		["2x100hvm",85],
 		["180hvm",90],
@@ -291,7 +301,21 @@
 		
 		["10rancor9mm",60],
 		["20rancor9mm",50],
-		["30rancor9mm",40]
+		["30rancor9mm",40],
+		
+		["10ronson45",70],
+		["15ronson45",60],
+		["20ronson45",50],
+		
+		["20ronson50",70],
+		["30ronson50",60],
+		["40ronson50",50],
+		
+		["20ronson762",80],
+		["30ronson762",70],
+		["40ronson762",60],
+		["50ronson762",60],
+		["60ronson762",50]
 		
     ]
   },

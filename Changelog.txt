@@ -1,0 +1,19 @@
+10:39 (UTC+1)
+5/20/2019
+
+Added Ronson's Weapon line Manufacturers
+6 Weapons
+  Ronson 45
+  Ronson 50
+  Ronson 55
+  Ronson 65 a
+  Ronson 70
+  Ronson LBM
+18 Magazines
+  3x .45
+  6x .50 BMG
+  5x 7.62x39mm
+  4x speedloaders
+4 recipes
+  4x speedloaders mods on HVM
+  

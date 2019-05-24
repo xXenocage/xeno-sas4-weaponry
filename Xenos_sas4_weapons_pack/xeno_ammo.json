@@ -6,7 +6,7 @@
         "name_plural" : "Small Circular Blades",
         "symbol" : "o",
         "color" : "red",
-        "description" : "a small circular blade with sharp edges, it is quite light and portable.\n it can be used by Rancor's Shredder rifle.",
+        "description" : "a small circular blade with <good>sharp edges</good>, it is quite <good>light and portable</good>.\n it can be used by Rancor's Shredder rifle.",
         "material" : ["steel"],
         "volume" : 1,
         "weight" : 10,
@@ -19,7 +19,7 @@
         "dispersion" : 120,
         "recoil" : 50,
         "count" : 3,
-		"effects": [ "RECOVER_25" ]
+		"effects": [ "RECOVER_10" ]
     },
 	{   "id" : "ammo_circular_blade_sharp",
         "type" : "AMMO",
@@ -28,7 +28,7 @@
         "name_plural" : "Small Sharpened Circular Blades",
         "symbol" : "o",
         "color" : "red",
-        "description" : "a small circular blade with razor sharp sharp edges, it is quite light and portable.\n it can be used by Rancor's Shredder rifle.",
+        "description" : "a small circular blade with <good>razor sharp edges</good>, it is quite <good>light and portable</good>.\n it can be used by Rancor's Shredder rifle.",
         "material" : ["steel"],
         "volume" : 1,
         "weight" : 10,
@@ -41,7 +41,7 @@
         "dispersion" : 120,
         "recoil" : 50,
         "count" : 2,
-		"effects": [ "RECOVER_25" ]
+		"effects": [ "RECOVER_10" ]
     },
 	{   "id" : "ammo_circular_blade_blunt",
         "type" : "AMMO",
@@ -50,7 +50,7 @@
         "name_plural" : "Small Blunt Circular Blades",
         "symbol" : "o",
         "color" : "red",
-        "description" : "a small circular blade with rounded edges but reinforced with harder metal, it is quite light and portable.\n it can be used by Rancor's Shredder rifle.",
+        "description" : "a small circular blade with <color_yellow>rounded edges</color> but <good>reinforced</good> with harder metal, it is quite <good>light and portable</good>.\n it can be used by Rancor's Shredder rifle.",
         "material" : ["steel"],
         "volume" : 2,
         "weight" : 25,
@@ -63,6 +63,6 @@
         "dispersion" : 120,
         "recoil" : 50,
         "count" : 1,
-		"effects": [ "RECOVER_25" ]
+		"effects": [ "RECOVER_40" ]
     }
 ]

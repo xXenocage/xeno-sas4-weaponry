@@ -74,6 +74,9 @@
     "type" : "item_group",
     "//" : "Makeshift or otherwise poor quality SMGs.",
     "items": [
+		["z2_lmp",50],
+		["z2_lmp_fixed",25],
+		["z2_lmp_reinforced",10]
     ]
   },
   
@@ -133,6 +136,12 @@
     
     "//" : "Imported or otherwise very obscure rifles.",
     "items": [
+		["z1_assault",60],
+		["z5_heavy",50],
+		["z1_assault_fixed",30],
+		["z5_heavy_fixed",25],
+		["z1_assault_reinforced",15],
+		["z5_heavy_reinforced",12]
     ]
   },
   

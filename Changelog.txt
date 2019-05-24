@@ -1,3 +1,19 @@
+3:33 (UTC+1)
+5/24/2019
+
+Added Z-Arm Tech Weapon line manufacturer
+9 weapons
+  Z-1 Assault (3x qualities)
+  Z-2 LMP (3x qualities)
+  Z-5 Heacy (3x qualities)
+9 magazines
+  6x 9mm
+  3x 7.62x39mm
+
+Colore Coded Every single item.
+
+
+
 10:39 (UTC+1)
 5/20/2019
 
